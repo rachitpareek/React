@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Live link: 
 
-[https://glacial-journey-43213.herokuapp.com/](https://glacial-journey-43213.herokuapp.com/)
+[https://rpareektictactoe.herokuapp.com/](https://rpareektictactoe.herokuapp.com/)
 
 ## Available Scripts
 
